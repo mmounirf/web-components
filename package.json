@@ -1,0 +1,25 @@
+{
+  "name": "web-components",
+  "version": "1.0.0",
+  "description": "Web Components Demo",
+  "main": "index.html",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmounirf/web-components"
+  },
+  "keywords": [
+    "React",
+    "Angular",
+    "Web",
+    "Components"
+  ],
+  "author": "Mou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmounirf/web-components/issues"
+  },
+  "homepage": "https://github.com/mmounirf/web-components#readme"
+}
